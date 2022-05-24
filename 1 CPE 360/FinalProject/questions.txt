@@ -1,0 +1,43 @@
+Angel Ordonez Retamar
+CPE 360 section A
+Final Project: A Day in the Life of a Queue
+I pledge my honor that I have abided by the Stevens Honor System
+
+
+Section 2.1 answers for a random simulation
+1. average wait time was: 44.869
+
+2. average service time was: 48.2838
+
+3. average queue length was: 2.57255
+
+4i. best wait time was: 0, at time: 4
+worst wait time was: 93, at time: 804
+
+4ii. best service time was: 1, at time: 464
+worst service time was: 98, at time: 811
+
+4iii. best queue length was: 1, at time: 457
+worst queue length was: 23, at time: 711
+
+
+Section 2.2 answers
+scenario i:
+i. average wait time: 7.86 minutes
+
+ii. average service time: 14.6519 minutes
+
+iii. average queue length: 3.84902
+
+scenario ii:
+i. average wait time: 29.7971
+
+ii. average service time: 35.3382
+
+iii. average queue length: 1.84902
+
+which alternative works better?
+From my results it seems that scenario i works better, which also goes along with what I had assumed prior to attempting the code. I have heard it said
+before that one line going to 2 registers is normally the fastest option.
+
+Thank you for a great semester and have a good summer!
